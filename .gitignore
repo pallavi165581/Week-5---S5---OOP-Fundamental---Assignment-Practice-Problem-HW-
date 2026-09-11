@@ -1,6 +1,7 @@
 *.class
 .DS_Store
 week1-strings-exceptions/
+week1-practice-problems/
 week2-string-methods/
 week4-array-algorithms/
 week5-practice-problems/
